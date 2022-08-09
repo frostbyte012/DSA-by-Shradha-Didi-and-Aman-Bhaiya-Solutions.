@@ -16,7 +16,7 @@ signed main()
     }
 
     int len = (int) sqrt(n)+1;
-
+  
     vector<int> b(len);
 
     for(int i=0;i<n;i++)
